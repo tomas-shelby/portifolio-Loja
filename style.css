@@ -8,7 +8,9 @@
 }
 
 .footer{
-    text-align: center;
-    width: 300px;
-    color: grey;
+    display: flex;
+    width: 500px;
+    height: 200px;
+    align-items: center;
+    background-color: goldenrod;
 }
