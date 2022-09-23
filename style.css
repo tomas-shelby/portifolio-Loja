@@ -1,8 +1,14 @@
-body{
-    color: gray;
+*{
+    background-color: gray;
 }
 
 .container {
     text-align: center;
     color: gray;
+}
+
+.footer{
+    text-align: center;
+    width: 300px;
+    color: grey;
 }
